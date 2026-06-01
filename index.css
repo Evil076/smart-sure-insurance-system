@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fix for Leaflet tiles interacting with Tailwind CSS */
+.leaflet-tile {
+    max-width: none !important;
+    max-height: none !important;
+}
+
+.leaflet-container {
+    z-index: 0;
+}

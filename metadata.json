@@ -1,0 +1,8 @@
+
+{
+  "name": "SmartSure: Intelligent Insurance Assistance",
+  "description": "A comprehensive platform for Kenyan policyholders to find hospitals accepting their insurance, understand policies via RAG-AI, and manage insurance wallets with blockchain-verified integrity.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
